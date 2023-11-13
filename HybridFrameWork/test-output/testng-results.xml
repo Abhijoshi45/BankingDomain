@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-11T13:36:54 IST" name="Default suite" finished-at="2023-11-11T13:37:10 IST" duration-ms="15451">
+    <groups>
+    </groups>
+    <test started-at="2023-11-11T13:36:54 IST" name="Default test" finished-at="2023-11-11T13:37:10 IST" duration-ms="15451">
+      <class name="com.facebook.Tests.SignInTests6">
+        <test-method signature="loginWithBlankCradinital()[pri:0, instance:com.facebook.Tests.SignInTests6@76a4ebf2]" started-at="2023-11-11T13:36:54 IST" name="loginWithBlankCradinital" finished-at="2023-11-11T13:37:10 IST" duration-ms="15421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithBlankCradinital -->
+      </class> <!-- com.facebook.Tests.SignInTests6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
